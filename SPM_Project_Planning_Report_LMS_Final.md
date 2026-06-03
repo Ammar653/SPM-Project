@@ -6,7 +6,7 @@
 
 <div style="text-align: center; padding: 100px 0;">
 
-### COMSATS UNIVERSITY ISLAMABAD
+### SINDH MADRESSATUL ISLAM UNIVERSITY
 
 ### Faculty of Software Engineering
 
